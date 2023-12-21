@@ -1,0 +1,4 @@
+/functions/database_functions.php
+/vendor
+bookstoredb.sql
+composer.lock
