@@ -59,7 +59,7 @@
     <div class="jumbotron" style="background-color: gray">
         <div class="container">
             <h1>Welcome to Bayt al-Hikmah,</h1>
-            <h2>The online bookstore.</h2><br>
+            <h2>The online library.</h2><br>
             <p class="lead">We inspired our name from <a href="https://w.wiki/_uU2S">the Grand Library of Baghdad,</a>
                 which was a major Abbasid public academy and<br>intellectual center in Baghdad and one of the world's
                 largest public libraries during <a href="https://w.wiki/_iUZ">the Islamic Golden Age.</a></p>

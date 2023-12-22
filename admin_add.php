@@ -9,19 +9,19 @@
 	if(isset($_POST['add'])){
 		$isbn = trim($_POST['isbn']);
 		$isbn = mysqli_real_escape_string($conn, $isbn);
-		
+
 		$title = trim($_POST['title']);
 		$title = mysqli_real_escape_string($conn, $title);
 
 		$author = trim($_POST['author']);
 		$author = mysqli_real_escape_string($conn, $author);
-		
+
 		$descr = trim($_POST['descr']);
 		$descr = mysqli_real_escape_string($conn, $descr);
-		
+
 		$price = floatval(trim($_POST['price']));
 		$price = mysqli_real_escape_string($conn, $price);
-		
+
 		$publisher = trim($_POST['publisher']);
 		$publisher = mysqli_real_escape_string($conn, $publisher);
 
