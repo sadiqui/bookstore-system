@@ -1,3 +1,5 @@
+> :notebook: **This PHP implemented project doesn't follow a classic MVC design pattern**
+
 # Bayt al-Hikmah online library
 
 ## Key Features of the Book Store Project in PHP:
@@ -19,5 +21,3 @@
 - **Fill Up Payment Details:** Customers need to input their payment details, including credit card information or other payment credentials, to complete the purchase securely.
 
 - **Contact Us:** This feature provides a means for customers to get in touch with the book store's support team. It may include contact forms, email addresses, or phone numbers for inquiries, feedback, or assistance.
-
-> :notebook: **This PHP implemented project doesn't follow a classic MVC design pattern**
